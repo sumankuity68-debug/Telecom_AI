@@ -409,19 +409,42 @@ Interactive Swagger documentation is live at **`http://127.0.0.1:8000/docs`**.
 
 ---
 
-## 9. Streamlit Multimodal UI
+## 9. Streamlit Multimodal UI & Feature Showcase
 
-The web interface features an ultra-modern dark obsidian aesthetic:
+The web interface features an ultra-modern dark obsidian glassmorphism aesthetic built for zero cognitive friction:
+
+### 🔐 1. Next-Gen Authentication & Instant Passkey Verification
+> Secure subscriber onboarding featuring real-time Indian Telecom Circle resolution (Google `phonenumbers` + TRAI NNP), Twilio SMS OTP dispatch, and a developer sandbox bypass.
 
 <div align="center">
+  <img src="docs/assets/screenshot_login.png" alt="TelecomAI Sign In & OTP" width="90%" style="border-radius: 12px; border: 1px solid rgba(56, 189, 248, 0.2); box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</div>
 
-| UI Feature | Preview & Capabilities |
-| :--- | :--- |
-| **Interactive Chat** | Markdown formatting, status pills, source indicators, and latency tags. |
-| **Real-Time Telemetry Cards** | Live gauges for 5G RSRP signal strength, download speeds, and tower IDs. |
-| **Action Confirmation Cards** | Dynamic preview badges for plan migrations and payment checkouts. |
-| **Voice Mode Controller** | Audio recording with waveform feedback and multilingual neural speech playback. |
+<br/>
 
+### 📊 2. Live Telemetry Dashboard & Network Health Command Center
+> Real-time subscriber profile metrics, active 5G standalone plan validity countdown, cell tower signal strength (RSRP/RSRQ/SINR), and instant action quick-chips.
+
+<div align="center">
+  <img src="docs/assets/screenshot_dashboard.png" alt="TelecomAI Subscriber Dashboard" width="90%" style="border-radius: 12px; border: 1px solid rgba(56, 189, 248, 0.2); box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</div>
+
+<br/>
+
+### 💬 3. Autonomous Reasoning Co-Pilot & Real-Time Usage Tracking
+> High-throughput multi-turn chat grounded in live relational database records. Resolves data quotas, daily burn rates, and network performance in natural language.
+
+<div align="center">
+  <img src="docs/assets/screenshot_chat.png" alt="TelecomAI Chat Co-Pilot" width="90%" style="border-radius: 12px; border: 1px solid rgba(56, 189, 248, 0.2); box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</div>
+
+<br/>
+
+### 🛡️ 4. Safe State-Changing Action & Two-Phase Confirmation Guardrail
+> Fail-safe mutation system. State-changing requests (recharges, plan migrations, ticket filings) generate an isolated action token with a 300-second TTL requiring explicit user confirmation before executing.
+
+<div align="center">
+  <img src="docs/assets/screenshot_confirmation.png" alt="TelecomAI Two-Phase Confirmation Safety Card" width="90%" style="border-radius: 12px; border: 1px solid rgba(245, 158, 11, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </div>
 
 ---

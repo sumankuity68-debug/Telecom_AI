@@ -1,0 +1,9 @@
+tower_id,location,technology,download_mbps,upload_mbps,latency_ms,packet_loss_percent,signal_strength_dbm,active_users,status
+T001,Kolkata,5G,92,18,24,0.8,-72,420,healthy
+T002,Kolkata,5G,18,5,178,12.4,-91,890,degraded
+T003,Delhi,5G,88,20,31,1.2,-75,510,healthy
+T004,Mumbai,5G,76,16,38,2.1,-78,620,healthy
+T005,Bengaluru,5G,95,22,21,0.5,-69,380,healthy
+T006,Kolkata,4G,24,7,95,5.8,-87,710,degraded
+T007,Delhi,4G,52,12,48,2.7,-81,550,healthy
+T008,Mumbai,4G,47,10,52,3.1,-83,590,healthy

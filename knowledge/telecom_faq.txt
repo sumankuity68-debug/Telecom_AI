@@ -1,0 +1,1790 @@
+============================================================
+TELECOMAI - COMPREHENSIVE TELECOM FAQ KNOWLEDGE BASE
+============================================================
+
+This document contains general telecom support knowledge for TelecomAI.
+
+TelecomAI can use this document to answer questions about:
+- Mobile plans
+- Data usage
+- Calls
+- SMS
+- 4G
+- 5G
+- Internet speed
+- Network problems
+- Signal strength
+- Latency
+- Packet loss
+- Congestion
+- SIM cards
+- eSIM
+- Roaming
+- Billing
+- Recharge
+- Plan upgrades
+- Plan downgrades
+- Network outages
+- Connectivity
+- Mobile internet
+- Wi-Fi
+- APN
+- Hotspot
+- VoLTE
+- VoWiFi
+- Number portability
+- Account problems
+- Suspended accounts
+- Customer support
+- Tickets
+- Troubleshooting
+- Device connectivity
+- Security
+- General telecom terminology
+
+
+============================================================
+1. GENERAL TELECOM QUESTIONS
+============================================================
+
+Q: What is a telecom service?
+
+A:
+A telecom service provides communication services such as mobile calls,
+SMS, mobile data, internet connectivity, roaming and related services.
+
+Q: What services can a mobile telecom operator provide?
+
+A:
+Common services include:
+- Voice calls
+- SMS
+- Mobile internet
+- 4G connectivity
+- 5G connectivity
+- International roaming
+- Recharge services
+- Data add-ons
+- SIM services
+- eSIM services
+- Number portability
+- Customer support
+
+Q: What is a mobile plan?
+
+A:
+A mobile plan is a subscription package that defines available data,
+calls, SMS, validity period and other benefits.
+
+Q: What is plan validity?
+
+A:
+Plan validity is the period during which the benefits of a plan remain
+active.
+
+Q: What happens when my plan expires?
+
+A:
+When a plan expires, its included benefits may no longer be available.
+The exact behavior depends on the account and plan configuration.
+
+Q: How can I check my current plan?
+
+A:
+TelecomAI can retrieve the current plan from the customer subscription
+database when the customer ID is available.
+
+Q: How can I check my account status?
+
+A:
+TelecomAI can check whether an account is active or suspended using the
+customer account database.
+
+Q: What is an active account?
+
+A:
+An active account is an account currently allowed to use its configured
+telecom services.
+
+Q: What is a suspended account?
+
+A:
+A suspended account is an account for which telecom services may be
+restricted or disabled.
+
+
+============================================================
+2. MOBILE DATA QUESTIONS
+============================================================
+
+Q: How can I check my data usage?
+
+A:
+TelecomAI can retrieve recent data usage from the usage database.
+
+Q: Why is my mobile data finishing quickly?
+
+A:
+Possible causes include:
+- Video streaming
+- High-resolution video
+- Large downloads
+- Automatic application updates
+- Cloud synchronization
+- Hotspot usage
+- Background applications
+- Social media media downloads
+- Online gaming
+- Video calls
+
+Q: How can I reduce mobile data usage?
+
+A:
+Recommended general steps:
+- Reduce video streaming quality
+- Disable unnecessary background data
+- Use Wi-Fi for large downloads
+- Disable automatic media downloads
+- Monitor application-level usage
+- Avoid unnecessary hotspot usage
+
+Q: What is data usage?
+
+A:
+Data usage represents the amount of mobile internet data consumed by a
+customer.
+
+Q: What is a data allowance?
+
+A:
+A data allowance is the amount of mobile data included in a plan.
+
+Q: What happens when I use all my plan data?
+
+A:
+The exact behavior depends on the plan configuration. Possible behavior
+includes reduced speed, additional charges, data add-ons or restricted
+data service.
+
+Q: Why is my internet slow even though I have data remaining?
+
+A:
+Possible reasons include:
+- Weak signal
+- Network congestion
+- High latency
+- Packet loss
+- Tower problems
+- Device configuration
+- Network outage
+- Poor coverage
+
+Q: Can high network traffic reduce internet speed?
+
+A:
+Yes. High traffic or congestion can reduce the available bandwidth for
+individual users.
+
+
+============================================================
+3. INTERNET SPEED
+============================================================
+
+Q: What is download speed?
+
+A:
+Download speed represents how quickly data can be received from the
+internet.
+
+Q: What is upload speed?
+
+A:
+Upload speed represents how quickly data can be sent to the internet.
+
+Q: Why is download speed low?
+
+A:
+Possible causes include:
+- Weak signal
+- Network congestion
+- Poor coverage
+- High latency
+- Packet loss
+- Tower degradation
+- Device limitations
+- Network outage
+
+Q: Why is upload speed lower than download speed?
+
+A:
+Many mobile networks allocate different amounts of capacity to download
+and upload traffic. Therefore upload speed can normally be lower.
+
+Q: What is a speed test?
+
+A:
+A speed test measures network performance such as download speed,
+upload speed and latency.
+
+Q: Is speed test result always constant?
+
+A:
+No. Speed can change depending on network load, location, signal,
+device, time of day and server selection.
+
+
+============================================================
+4. LATENCY
+============================================================
+
+Q: What is latency?
+
+A:
+Latency is the time required for data to travel between the device and
+the destination server.
+
+Q: Is lower latency better?
+
+A:
+Generally, lower latency means faster response time for interactive
+applications.
+
+Q: Why is my latency high?
+
+A:
+Possible causes include:
+- Network congestion
+- Long network routing paths
+- Tower issues
+- Poor signal
+- Packet loss
+- Internet routing problems
+
+Q: What problems can high latency cause?
+
+A:
+High latency can affect:
+- Online gaming
+- Video calls
+- Remote desktop
+- Interactive applications
+- Real-time communication
+
+Q: What is acceptable latency?
+
+A:
+The appropriate latency depends on the application. Interactive
+applications generally benefit from lower latency.
+
+
+============================================================
+5. PACKET LOSS
+============================================================
+
+Q: What is packet loss?
+
+A:
+Packet loss occurs when some network packets fail to reach their
+destination.
+
+Q: What causes packet loss?
+
+A:
+Possible causes include:
+- Weak signal
+- Network congestion
+- Wireless interference
+- Faulty network equipment
+- Network instability
+- Tower problems
+
+Q: What happens when packet loss is high?
+
+A:
+High packet loss can cause:
+- Connection drops
+- Slow browsing
+- Poor voice calls
+- Video buffering
+- Gaming problems
+- Video call interruptions
+
+Q: How can packet loss be reduced?
+
+A:
+Possible actions include:
+- Moving to an area with stronger signal
+- Switching network modes when appropriate
+- Checking for network outages
+- Restarting network connectivity
+- Contacting support if the problem continues
+
+
+============================================================
+6. SIGNAL STRENGTH
+============================================================
+
+Q: What is signal strength?
+
+A:
+Signal strength represents how strong the wireless signal received by a
+device is.
+
+Q: What does dBm mean?
+
+A:
+dBm is a unit commonly used to represent received radio signal power.
+
+Q: Is -70 dBm better than -95 dBm?
+
+A:
+Yes. In general, a value closer to zero represents stronger received
+signal power.
+
+Q: Why is my signal weak?
+
+A:
+Possible reasons include:
+- Distance from the tower
+- Buildings
+- Walls
+- Underground locations
+- Terrain
+- Network coverage
+- Indoor interference
+- Temporary tower problems
+
+Q: How can I improve signal strength?
+
+A:
+Possible steps include:
+- Move near a window
+- Move outdoors
+- Move to a more open area
+- Restart network connectivity
+- Check network mode
+- Check for local outages
+
+
+============================================================
+7. 4G QUESTIONS
+============================================================
+
+Q: What is 4G?
+
+A:
+4G is a generation of mobile communication technology designed to
+provide high-speed mobile data and voice services.
+
+Q: Why is my 4G internet slow?
+
+A:
+Possible causes include:
+- Weak signal
+- Congestion
+- Tower degradation
+- Packet loss
+- High latency
+- Device configuration
+
+Q: Can a 5G phone use 4G?
+
+A:
+Many 5G-capable devices can also connect to 4G networks when 5G is not
+available.
+
+Q: Why did my phone switch from 5G to 4G?
+
+A:
+Possible reasons include:
+- 5G coverage unavailable
+- Weak 5G signal
+- Device network selection
+- Temporary 5G network issue
+- Indoor coverage limitations
+
+
+============================================================
+8. 5G QUESTIONS
+============================================================
+
+Q: What is 5G?
+
+A:
+5G is a newer generation of mobile network technology designed to
+provide higher capacity, higher speeds and potentially lower latency.
+
+Q: Why is my 5G slow?
+
+A:
+Possible causes include:
+- Network congestion
+- Weak 5G signal
+- Tower load
+- Backhaul limitations
+- Device limitations
+- Poor coverage
+- Packet loss
+
+Q: Why does my phone show 5G but internet is slow?
+
+A:
+The 5G indicator only shows that the device is connected to a 5G
+network. Actual performance can still be affected by congestion,
+signal quality, latency and other network conditions.
+
+Q: Does 5G always provide faster speed than 4G?
+
+A:
+5G is designed for higher performance, but actual speed depends on
+coverage, spectrum, network load, device capability and other factors.
+
+Q: Does 5G consume more battery?
+
+A:
+Battery usage depends on the device, network conditions and how the
+device manages 4G and 5G connectivity.
+
+Q: Why does my phone frequently switch between 4G and 5G?
+
+A:
+This can happen when 5G coverage changes or the device moves between
+areas with different network conditions.
+
+
+============================================================
+9. NETWORK CONGESTION
+============================================================
+
+Q: What is network congestion?
+
+A:
+Network congestion occurs when many users or devices compete for
+available network capacity.
+
+Q: How does congestion affect users?
+
+A:
+Congestion can cause:
+- Lower download speed
+- Lower upload speed
+- Higher latency
+- Higher packet loss
+- Connection instability
+
+Q: Why is my internet slower during evening hours?
+
+A:
+Network traffic can increase during busy periods, potentially causing
+higher network utilization and lower performance.
+
+Q: Can TelecomAI detect congestion?
+
+A:
+Yes. TelecomAI can analyze network metrics such as active users,
+download speed, latency and packet loss to identify potentially
+degraded network conditions.
+
+
+============================================================
+10. NETWORK OUTAGES
+============================================================
+
+Q: What is a network outage?
+
+A:
+A network outage is a period when a network service or network
+component is unavailable or significantly degraded.
+
+Q: How can I check whether there is an outage?
+
+A:
+TelecomAI can check the simulated outage database for active outages
+associated with a tower or location.
+
+Q: What information is useful when checking an outage?
+
+A:
+Useful information includes:
+- Customer location
+- Tower
+- Technology
+- Outage status
+- Start time
+- Reason
+- Affected area
+
+Q: What should I do during a network outage?
+
+A:
+If an active outage is confirmed, the customer may wait for service
+restoration or create a support ticket for additional assistance.
+
+Q: Can TelecomAI distinguish an outage from an individual device problem?
+
+A:
+TelecomAI can compare customer symptoms with network status, tower
+health and outage information. This can help determine whether the
+problem may be network-wide or customer-specific.
+
+
+============================================================
+11. SIM CARD
+============================================================
+
+Q: What is a SIM card?
+
+A:
+A SIM card identifies a mobile subscriber and allows compatible devices
+to access mobile network services.
+
+Q: Why is my SIM not working?
+
+A:
+Possible causes include:
+- SIM not inserted correctly
+- Damaged SIM
+- Account suspension
+- Network configuration issue
+- Device compatibility problem
+- SIM activation issue
+
+Q: What should I do if my phone says No SIM?
+
+A:
+General troubleshooting:
+1. Remove and reinsert the SIM.
+2. Restart the device.
+3. Check whether the SIM is detected.
+4. Test the SIM in a compatible device if available.
+5. Contact support if the problem continues.
+
+Q: What should I do if my SIM is lost?
+
+A:
+Contact the telecom provider to suspend or replace the SIM according
+to the account verification process.
+
+
+============================================================
+12. eSIM
+============================================================
+
+Q: What is eSIM?
+
+A:
+An eSIM is an embedded SIM that allows compatible devices to use a
+mobile subscription without requiring a physical SIM card.
+
+Q: Does every phone support eSIM?
+
+A:
+No. eSIM support depends on the device model and software configuration.
+
+Q: What should I check before using eSIM?
+
+A:
+Check:
+- Device eSIM compatibility
+- Operator support
+- Account eligibility
+- Activation instructions
+
+Q: What happens if eSIM activation fails?
+
+A:
+Check device compatibility, network connectivity and activation
+details. If the issue continues, contact support.
+
+
+============================================================
+13. CALLS
+============================================================
+
+Q: Why can I not make calls?
+
+A:
+Possible causes include:
+- Weak network signal
+- Account restriction
+- SIM issue
+- Network outage
+- Device configuration
+- Network congestion
+
+Q: Why are my calls dropping?
+
+A:
+Possible causes include:
+- Weak signal
+- Network coverage changes
+- Network instability
+- Tower problems
+- Device issues
+
+Q: Why is call quality poor?
+
+A:
+Possible causes include:
+- Weak signal
+- Network congestion
+- Packet loss
+- Network problems
+- Device microphone or speaker issues
+
+Q: Why can I receive calls but cannot make calls?
+
+A:
+Possible causes include account restrictions, network configuration,
+SIM issues or device configuration.
+
+
+============================================================
+14. SMS
+============================================================
+
+Q: Why can I not send SMS?
+
+A:
+Possible causes include:
+- Network problem
+- SIM issue
+- Account restriction
+- Incorrect messaging configuration
+- Temporary service issue
+
+Q: Why are SMS messages delayed?
+
+A:
+Possible causes include network congestion, temporary service
+problems or recipient network issues.
+
+Q: Can SMS work without mobile data?
+
+A:
+Traditional SMS does not require mobile internet data, although the
+device still needs mobile network connectivity.
+
+
+============================================================
+15. VoLTE
+============================================================
+
+Q: What is VoLTE?
+
+A:
+VoLTE means Voice over LTE. It allows voice calls to be carried over
+an LTE/4G network.
+
+Q: What are the benefits of VoLTE?
+
+A:
+Potential benefits include:
+- Improved voice quality
+- Faster call connection
+- Ability to use mobile data during calls
+
+Q: Why is VoLTE not working?
+
+A:
+Possible causes include:
+- Device compatibility
+- Account configuration
+- SIM configuration
+- Network availability
+- Device settings
+
+
+============================================================
+16. Wi-Fi CALLING
+============================================================
+
+Q: What is Wi-Fi Calling?
+
+A:
+Wi-Fi Calling allows supported voice services to use a Wi-Fi
+connection when supported by the device and telecom provider.
+
+Q: Why is Wi-Fi Calling not working?
+
+A:
+Possible causes include:
+- Device does not support the feature
+- Service not enabled
+- Wi-Fi connectivity problem
+- Operator configuration
+- Software configuration
+
+
+============================================================
+17. MOBILE HOTSPOT
+============================================================
+
+Q: What is a mobile hotspot?
+
+A:
+A mobile hotspot allows a phone to share its mobile internet
+connection with other devices.
+
+Q: Why is my hotspot slow?
+
+A:
+Possible causes include:
+- Weak mobile signal
+- Network congestion
+- High number of connected devices
+- Device limitations
+- High data usage
+
+Q: Why does my hotspot disconnect?
+
+A:
+Possible causes include:
+- Battery-saving settings
+- Weak network
+- Device overheating
+- Connection limits
+- Network instability
+
+
+============================================================
+18. APN
+============================================================
+
+Q: What is APN?
+
+A:
+APN stands for Access Point Name. It contains network configuration
+information used by a device to connect to mobile data services.
+
+Q: Why is mobile data not working because of APN?
+
+A:
+Incorrect APN configuration can prevent a device from connecting to
+mobile data services.
+
+Q: Should I change APN settings?
+
+A:
+APN settings should normally match the configuration provided by the
+telecom operator.
+
+
+============================================================
+19. ROAMING
+============================================================
+
+Q: What is roaming?
+
+A:
+Roaming allows a subscriber to use mobile services outside the
+normal network coverage area through another compatible network.
+
+Q: What is international roaming?
+
+A:
+International roaming allows mobile services to be used while
+traveling in another country when supported.
+
+Q: Why am I being charged for roaming?
+
+A:
+Roaming usage may generate additional charges depending on the
+customer's plan and roaming configuration.
+
+Q: How can I reduce roaming data usage?
+
+A:
+Possible steps:
+- Use Wi-Fi
+- Disable unnecessary background data
+- Disable automatic updates
+- Monitor data usage
+- Use a suitable roaming package
+
+Q: Why is roaming not working?
+
+A:
+Possible causes include:
+- Roaming not enabled
+- Unsupported destination
+- Account restriction
+- Network partner issue
+- Device configuration
+
+
+============================================================
+20. BILLING
+============================================================
+
+Q: What is a telecom bill?
+
+A:
+A telecom bill summarizes charges associated with a customer's
+telecom services for a billing period.
+
+Q: What can appear on a telecom bill?
+
+A:
+Possible components include:
+- Base plan charge
+- Add-on charges
+- Roaming charges
+- Taxes
+- Other applicable service charges
+
+Q: Why is my bill higher than my plan price?
+
+A:
+The final bill can be higher because of:
+- Add-ons
+- Roaming
+- Additional services
+- Taxes
+- Other applicable charges
+
+Q: What is a base plan charge?
+
+A:
+The base plan charge is the primary charge associated with the
+customer's selected subscription plan.
+
+Q: What are addon charges?
+
+A:
+Addon charges are charges associated with additional services or
+packages outside the base plan.
+
+Q: What are roaming charges?
+
+A:
+Roaming charges are charges associated with supported roaming usage.
+
+Q: What are taxes?
+
+A:
+Taxes are applicable government or regulatory charges added to
+eligible telecom services.
+
+Q: Can TelecomAI explain my bill?
+
+A:
+Yes. TelecomAI can retrieve bill components and explain how the
+total amount is composed.
+
+Q: Why is my bill pending?
+
+A:
+A pending bill means the payment status has not yet been recorded as
+completed in the billing system.
+
+Q: What is an overdue bill?
+
+A:
+An overdue bill is a bill whose payment has not been completed within
+the required payment period.
+
+
+============================================================
+21. RECHARGE
+============================================================
+
+Q: What is a recharge?
+
+A:
+A recharge adds balance or activates a service package according to
+the selected recharge option.
+
+Q: Why did my recharge fail?
+
+A:
+Possible causes include:
+- Payment failure
+- Network issue
+- Account restriction
+- Invalid transaction
+- Temporary service problem
+
+Q: What should I do if money was deducted but recharge was not applied?
+
+A:
+The transaction should be verified against the billing or payment
+system. A support ticket may be created if the transaction remains
+unresolved.
+
+Q: Can TelecomAI perform a recharge?
+
+A:
+In the simulated TelecomAI system, recharge can be represented as an
+action tool. Financial actions must require explicit customer
+confirmation before execution.
+
+
+============================================================
+22. PLAN UPGRADE
+============================================================
+
+Q: Can I upgrade my plan?
+
+A:
+TelecomAI can search available plans and identify plans that may
+provide more data or other benefits.
+
+Q: Why should I upgrade my plan?
+
+A:
+A plan upgrade may be useful when the customer's current data or
+service allowance is consistently insufficient.
+
+Q: How does TelecomAI recommend a plan?
+
+A:
+TelecomAI can compare recent customer usage with available plans and
+identify plans that better match the usage pattern.
+
+Q: Does TelecomAI automatically change my plan?
+
+A:
+No. A plan-changing action should require explicit customer
+confirmation before execution.
+
+
+============================================================
+23. PLAN DOWNGRADE
+============================================================
+
+Q: Can I downgrade my plan?
+
+A:
+If supported by the available plans and account rules, TelecomAI can
+identify lower-cost plans.
+
+Q: Why would someone downgrade a plan?
+
+A:
+A customer may consider a lower plan when their actual usage is
+consistently much lower than the included allowance.
+
+Q: Does TelecomAI automatically downgrade my plan?
+
+A:
+No. Plan changes require explicit customer confirmation.
+
+
+============================================================
+24. PLAN COMPARISON
+============================================================
+
+Q: How can I compare telecom plans?
+
+A:
+Plans can be compared using:
+- Price
+- Data allowance
+- Validity
+- Calls
+- SMS
+- Technology
+- Other available benefits
+
+Q: Which plan is suitable for a heavy data user?
+
+A:
+A plan with a higher data allowance may be more appropriate for a
+heavy data user.
+
+Q: Which plan is suitable for a light data user?
+
+A:
+A lower-cost plan with a smaller data allowance may be sufficient for
+a light data user.
+
+Q: Can TelecomAI recommend a plan based on my usage?
+
+A:
+Yes. TelecomAI can analyze recent usage and compare it with available
+plans.
+
+
+============================================================
+25. ACCOUNT STATUS
+============================================================
+
+Q: Why is my account suspended?
+
+A:
+An account may be suspended because of account rules, payment issues,
+service restrictions or other configured conditions.
+
+Q: Can a suspended account use mobile data?
+
+A:
+Service availability depends on the account status and configured
+telecom rules.
+
+Q: How can I check account status?
+
+A:
+TelecomAI can retrieve account status using the customer ID.
+
+Q: Can TelecomAI reactivate my account?
+
+A:
+Account-changing actions should be handled through an authorized
+action workflow and require appropriate confirmation.
+
+
+============================================================
+26. NETWORK TROUBLESHOOTING
+============================================================
+
+Q: My internet is not working. What should I do?
+
+A:
+Try:
+1. Check signal strength.
+2. Check whether mobile data is enabled.
+3. Restart network connectivity.
+4. Restart the device.
+5. Check APN configuration.
+6. Check for network outages.
+7. Check whether other users in the area are affected.
+
+Q: My internet is extremely slow. What should I check?
+
+A:
+Check:
+- Download speed
+- Upload speed
+- Latency
+- Packet loss
+- Signal strength
+- Active network users
+- Tower status
+- Outage information
+
+Q: My connection keeps disconnecting. What could be wrong?
+
+A:
+Possible causes include:
+- Weak signal
+- Packet loss
+- Network instability
+- Tower degradation
+- Device problems
+- Coverage changes
+
+Q: My internet works sometimes and stops sometimes.
+
+A:
+Intermittent connectivity may be caused by:
+- Changing signal strength
+- Network congestion
+- Tower instability
+- Packet loss
+- Device configuration
+
+
+============================================================
+27. DEVICE TROUBLESHOOTING
+============================================================
+
+Q: Should I restart my phone when network problems occur?
+
+A:
+Restarting the device can refresh network connectivity and may resolve
+temporary device-side issues.
+
+Q: Why does airplane mode sometimes help?
+
+A:
+Turning airplane mode on and off can force the device to reconnect to
+the available mobile network.
+
+Q: Why does my phone show no service?
+
+A:
+Possible causes include:
+- No network coverage
+- SIM problem
+- Account restriction
+- Network outage
+- Device network configuration
+
+Q: Why does my phone show emergency calls only?
+
+A:
+Possible causes include limited network availability, SIM problems,
+account restrictions or temporary network conditions.
+
+
+============================================================
+28. NETWORK HEALTH SCORE
+============================================================
+
+Q: What is a Network Health Score?
+
+A:
+A Network Health Score is a system-generated indicator that summarizes
+network performance using metrics such as speed, latency, packet loss,
+signal strength and network status.
+
+Q: What factors can affect the Network Health Score?
+
+A:
+Possible factors include:
+- Download speed
+- Upload speed
+- Latency
+- Packet loss
+- Signal strength
+- Active users
+- Tower status
+- Active outages
+
+Q: Does a low health score always mean the network is completely down?
+
+A:
+No. A low score may indicate degraded performance rather than complete
+service failure.
+
+Q: Can TelecomAI calculate a health score?
+
+A:
+Yes. The TelecomAI diagnostic module can calculate a simulated network
+health score from available network metrics.
+
+
+============================================================
+29. ANOMALY DETECTION
+============================================================
+
+Q: What is network anomaly detection?
+
+A:
+Network anomaly detection identifies network measurements that differ
+significantly from normal patterns.
+
+Q: What network values can be monitored?
+
+A:
+Examples include:
+- Download speed
+- Upload speed
+- Latency
+- Packet loss
+- Signal strength
+- Active users
+
+Q: What could be a network anomaly?
+
+A:
+Examples include:
+- Sudden latency increase
+- Sudden packet loss
+- Unexpected speed reduction
+- Unusually high user load
+- Abnormal signal strength
+
+Q: Can TelecomAI detect abnormal network conditions?
+
+A:
+Yes. The Day 2 anomaly detection module can analyze network metrics
+using a machine learning model.
+
+
+============================================================
+30. SUPPORT TICKETS
+============================================================
+
+Q: What is a support ticket?
+
+A:
+A support ticket records a customer problem so that it can be tracked
+and handled by a support process.
+
+Q: When should I create a support ticket?
+
+A:
+A ticket may be useful when:
+- Troubleshooting does not resolve the problem
+- An outage needs investigation
+- Billing requires investigation
+- A repeated network issue occurs
+- A service action needs support
+
+Q: What information should a ticket contain?
+
+A:
+Useful information includes:
+- Customer ID
+- Problem category
+- Description
+- Priority
+- Current status
+- Creation time
+
+Q: Can TelecomAI create a support ticket?
+
+A:
+Yes. TelecomAI can use a ticket creation tool in the simulated
+environment.
+
+Q: Can I check my ticket status?
+
+A:
+Yes. TelecomAI can search the ticket database using the customer or
+ticket ID.
+
+
+============================================================
+31. BILLING SUPPORT QUESTIONS
+============================================================
+
+Q: Why was I charged an addon?
+
+A:
+An addon charge may occur when an additional service or package was
+used or activated.
+
+Q: Why is my bill different from last month?
+
+A:
+Possible reasons include:
+- Different plan
+- Addon usage
+- Roaming
+- Taxes
+- Additional services
+- Different billing configuration
+
+Q: Can TelecomAI break down my bill?
+
+A:
+Yes. TelecomAI can display individual bill components and calculate
+their contribution to the total amount.
+
+Q: Can TelecomAI identify unpaid bills?
+
+A:
+Yes. TelecomAI can check billing status and identify pending or
+overdue bills in the simulated database.
+
+
+============================================================
+32. NUMBER PORTABILITY
+============================================================
+
+Q: What is mobile number portability?
+
+A:
+Mobile number portability allows a customer to move a phone number
+between supported telecom operators while retaining the number.
+
+Q: Does changing operator always change my phone number?
+
+A:
+Number portability is specifically designed to allow a supported
+number to be retained during an operator change.
+
+Q: Can TelecomAI perform number portability?
+
+A:
+The current simulated system provides information about telecom
+services. Actual number portability requires an authorized telecom
+operator process.
+
+
+============================================================
+33. SECURITY
+============================================================
+
+Q: Why should I protect my telecom account?
+
+A:
+A telecom account may contain sensitive service and billing
+information, so account credentials and verification information
+should be protected.
+
+Q: Should I share my OTP with anyone?
+
+A:
+No. OTPs and authentication credentials should not be shared with
+other people.
+
+Q: What should I do if I suspect unauthorized account activity?
+
+A:
+Contact the telecom provider through an official support channel and
+follow the account security process.
+
+Q: Can TelecomAI reveal another customer's information?
+
+A:
+No. TelecomAI should only retrieve information that the authorized
+customer is permitted to access.
+
+
+============================================================
+34. PRIVACY
+============================================================
+
+Q: What is customer privacy?
+
+A:
+Customer privacy means protecting customer information and limiting
+access to authorized information.
+
+Q: Should customer data be exposed in chat?
+
+A:
+Only information required to answer the customer's request should be
+displayed.
+
+Q: Can TelecomAI access every customer's account?
+
+A:
+The system should use customer authentication and authorization
+controls before accessing account-specific information.
+
+
+============================================================
+35. VOICE ASSISTANT
+============================================================
+
+Q: Can I talk to TelecomAI using my voice?
+
+A:
+Yes. The TelecomAI interface supports voice input. Speech is converted
+into text and then processed by the same telecom AI agent used for
+typed questions.
+
+Q: Does voice input use a separate AI agent?
+
+A:
+No. Voice input is an input channel. After speech-to-text conversion,
+the resulting text is sent to the TelecomAI agent.
+
+Q: Can I ask telecom questions using voice?
+
+A:
+Yes. Examples include:
+- What is my current plan?
+- How much data did I use?
+- Why is my internet slow?
+- Is there an outage in Kolkata?
+- Explain my bill.
+- What plans are available?
+
+Q: Can TelecomAI respond using voice?
+
+A:
+A text-to-speech module can convert the agent's response into audio.
+
+
+============================================================
+36. IMAGE AND SCREENSHOT ANALYSIS
+============================================================
+
+Q: Can I upload a network screenshot?
+
+A:
+Yes. TelecomAI can analyze supported screenshots and extract useful
+information from them.
+
+Q: Can TelecomAI analyze a speed test screenshot?
+
+A:
+Yes. A vision module can inspect a supported speed test screenshot and
+identify values such as download speed, upload speed and latency when
+they are visible.
+
+Q: Can TelecomAI analyze a bill screenshot?
+
+A:
+A vision module can attempt to identify visible billing information
+from a supported bill screenshot.
+
+Q: Can I upload a router screenshot?
+
+A:
+Yes. A vision module can inspect supported router or network
+screenshots and identify visible diagnostic information.
+
+
+============================================================
+37. CUSTOMER EXPERIENCE
+============================================================
+
+Q: Why is my network experience poor?
+
+A:
+Poor network experience can result from multiple factors:
+- Low signal
+- Congestion
+- High latency
+- Packet loss
+- Outage
+- Device issues
+- Coverage limitations
+
+Q: Can TelecomAI combine multiple network measurements?
+
+A:
+Yes. TelecomAI can combine network metrics with outage information
+and diagnostic rules to produce a more complete analysis.
+
+Q: Can TelecomAI explain why my network is slow?
+
+A:
+Yes. It can inspect available network metrics and explain possible
+causes such as congestion, weak signal, packet loss or an active
+outage.
+
+
+============================================================
+38. LOCATION-BASED NETWORK QUESTIONS
+============================================================
+
+Q: Is the network healthy in my location?
+
+A:
+TelecomAI can check the simulated network database for the relevant
+location and inspect available tower metrics.
+
+Q: Are there outages near me?
+
+A:
+TelecomAI can search the simulated outage database using the available
+customer location.
+
+Q: Which tower is affected?
+
+A:
+TelecomAI can identify towers associated with an active outage when
+the information is available in the network database.
+
+Q: Why is network performance different in two locations?
+
+A:
+Different locations may have different:
+- Towers
+- Signal strengths
+- User loads
+- Technologies
+- Network capacity
+- Outage conditions
+
+
+============================================================
+39. TECHNICAL TERMS
+============================================================
+
+Q: What is bandwidth?
+
+A:
+Bandwidth represents the capacity available for transmitting data.
+
+Q: What is throughput?
+
+A:
+Throughput is the actual amount of data successfully transmitted over
+a network during a period.
+
+Q: What is jitter?
+
+A:
+Jitter represents variation in packet arrival time and can affect
+real-time communication.
+
+Q: What is packet loss?
+
+A:
+Packet loss occurs when transmitted packets fail to reach their
+destination.
+
+Q: What is network congestion?
+
+A:
+Network congestion occurs when demand for network resources becomes
+high relative to available capacity.
+
+Q: What is a network tower?
+
+A:
+A network tower is infrastructure used to provide wireless network
+coverage to mobile devices.
+
+Q: What is backhaul?
+
+A:
+Backhaul connects access network infrastructure such as towers to the
+core network or wider network infrastructure.
+
+
+============================================================
+40. COMMON CUSTOMER QUESTIONS
+============================================================
+
+Q: My internet is not working.
+
+A:
+Check signal, mobile data settings, APN, device connectivity and
+possible outages.
+
+Q: My internet is slow.
+
+A:
+Check download speed, latency, packet loss, signal strength,
+congestion and tower status.
+
+Q: My calls are dropping.
+
+A:
+Check signal strength, network coverage, network status and device
+connectivity.
+
+Q: My bill is too high.
+
+A:
+Check base plan, addons, roaming charges, taxes and other applicable
+charges.
+
+Q: What is my current plan?
+
+A:
+TelecomAI can retrieve the customer's current subscription using the
+customer ID.
+
+Q: How much data have I used?
+
+A:
+TelecomAI can retrieve recent usage records from the usage database.
+
+Q: Is there an outage?
+
+A:
+TelecomAI can check active outage records for the relevant location
+or tower.
+
+Q: Which plan should I choose?
+
+A:
+TelecomAI can compare available plans against recent usage and explain
+the differences.
+
+Q: Can you create a support ticket?
+
+A:
+Yes. TelecomAI can create a support ticket when the issue requires
+further investigation.
+
+Q: What is the status of my ticket?
+
+A:
+TelecomAI can retrieve the ticket status using the ticket or customer
+ID.
+
+
+============================================================
+41. MULTI-PROBLEM QUESTIONS
+============================================================
+
+Q: My internet is slow and my calls are also dropping. What is wrong?
+
+A:
+TelecomAI should check:
+1. Signal strength
+2. Packet loss
+3. Latency
+4. Network status
+5. Tower status
+6. Active outages
+7. Device-related conditions
+
+If multiple network indicators are degraded simultaneously, a broader
+network problem may be present.
+
+Q: My bill is high and my data usage is also high. What should I check?
+
+A:
+TelecomAI should inspect:
+- Current plan
+- Data usage
+- Addon charges
+- Roaming charges
+- Taxes
+- Total bill
+
+Q: My 5G is slow and there is an outage in my location.
+
+A:
+TelecomAI should report the active outage and explain that the outage
+may be related to degraded network performance.
+
+Q: My signal is strong but internet speed is low.
+
+A:
+Strong signal alone does not guarantee high speed. TelecomAI should
+also inspect congestion, latency, packet loss, tower status and other
+network metrics.
+
+
+============================================================
+42. TELECOMAI RESPONSE BEHAVIOR
+============================================================
+
+When answering customer questions, TelecomAI should:
+
+1. Identify the customer's intent.
+
+2. Use customer-specific tools when account information is required.
+
+3. Use network tools for network-related questions.
+
+4. Use billing tools for billing questions.
+
+5. Use the knowledge base for general telecom explanations.
+
+6. Use the RAG system when a question requires telecom documentation.
+
+7. Use diagnostic tools when network metrics are available.
+
+8. Check outage information when the customer reports local network
+   problems.
+
+9. Explain technical results in simple language.
+
+10. Never invent customer account information.
+
+11. Never invent billing information.
+
+12. Never claim that an outage exists without checking available
+    outage data.
+
+13. Never automatically execute account-changing or financial actions.
+
+14. Require explicit customer confirmation before:
+    - Plan changes
+    - Recharge
+    - Other financial actions
+    - Account-changing operations
+
+15. If the available information is insufficient, clearly state what
+    information is required.
+
+
+============================================================
+43. EXAMPLE USER QUESTIONS FOR RAG TESTING
+============================================================
+
+What is latency?
+
+Why is my 5G slow?
+
+What is packet loss?
+
+Why does my internet keep disconnecting?
+
+What does -90 dBm mean?
+
+Is -70 dBm better than -95 dBm?
+
+Why is my download speed low?
+
+Why is my upload speed low?
+
+What causes network congestion?
+
+What is a network outage?
+
+How does roaming work?
+
+What is VoLTE?
+
+What is an APN?
+
+What is eSIM?
+
+Why is my SIM not working?
+
+Why are my calls dropping?
+
+Why are my SMS messages delayed?
+
+What is Wi-Fi Calling?
+
+Why is my hotspot slow?
+
+Why does my phone show 4G instead of 5G?
+
+Why does my phone switch between 4G and 5G?
+
+Why is my bill higher than my plan price?
+
+What is an addon charge?
+
+What is a roaming charge?
+
+What is a base plan charge?
+
+What is a Network Health Score?
+
+What is network anomaly detection?
+
+What causes packet loss?
+
+What causes high latency?
+
+How can I improve my signal?
+
+How can I reduce data usage?
+
+How do I check my current plan?
+
+How do I check my data usage?
+
+Can I upgrade my plan?
+
+Can I downgrade my plan?
+
+Can you recommend a plan?
+
+Can I create a support ticket?
+
+How can I check my ticket?
+
+Can TelecomAI analyze a speed test screenshot?
+
+Can TelecomAI understand voice questions?
+
+What should I do if my internet is not working?
+
+Why is my internet slow?
+
+Why are my calls dropping?
+
+Is there an outage in my area?
+
+Why is my bill unusually high?
+
+What is the difference between 4G and 5G?
+
+What is bandwidth?
+
+What is throughput?
+
+What is jitter?
+
+What is packet loss?
+
+What is backhaul?
+
+What is network congestion?
+
+Why does network performance change by location?
+
+
+============================================================
+END OF TELECOM FAQ KNOWLEDGE BASE
+============================================================

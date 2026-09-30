@@ -1,0 +1,17 @@
+BILLING POLICY
+
+A telecom bill can contain the base plan charge, add-on charges, roaming charges and applicable taxes.
+
+The total bill amount is the sum of these components.
+
+A pending bill means payment has not yet been recorded as completed.
+
+An overdue bill requires payment according to the applicable account policy.
+
+Customers can request an explanation of individual bill components.
+
+A support agent should not claim that a charge is incorrect without checking the billing record.
+
+For disputed charges, create a billing support ticket when investigation is required.
+
+Financial actions such as payment, recharge or refunds require explicit customer confirmation and appropriate authorization.

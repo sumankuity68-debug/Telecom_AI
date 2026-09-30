@@ -1,0 +1,19 @@
+SIM TROUBLESHOOTING GUIDE
+
+If a SIM has no network service, first restart the mobile device.
+
+Check whether airplane mode is enabled.
+
+Remove and reinsert the SIM if the device supports a removable SIM.
+
+Check whether the SIM is correctly detected by the device.
+
+Verify that the account is active and not suspended.
+
+If mobile data is not working while calls work, check the mobile data setting and APN configuration.
+
+If the SIM works in another compatible device, the original device may require troubleshooting.
+
+If the SIM does not work in multiple compatible devices, the SIM or account may require further support.
+
+For repeated SIM registration problems, create a support ticket and provide the customer's account information.

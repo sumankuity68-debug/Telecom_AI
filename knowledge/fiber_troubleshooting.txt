@@ -1,0 +1,19 @@
+FIBER TROUBLESHOOTING GUIDE
+
+For fiber broadband problems, first check whether the modem or optical network terminal has power.
+
+Check whether the optical or PON indicator is normal.
+
+A red LOS indicator can indicate loss of optical signal.
+
+Restart the router and optical network equipment.
+
+Check Ethernet or Wi-Fi connectivity between the customer device and router.
+
+If the router is connected but internet access is unavailable, check whether there is an active service outage.
+
+Poor Wi-Fi performance can occur even when the fiber connection itself is healthy.
+
+A wired speed test can help separate Wi-Fi problems from broadband connection problems.
+
+Persistent optical signal problems should be escalated to technical support.

@@ -1,0 +1,11 @@
+customer_id,name,phone,email,location,customer_type,account_status
+CUST001,Aarav Sharma,9000000001,aarav@example.com,Kolkata,individual,active
+CUST002,Ananya Das,9000000002,ananya@example.com,Kolkata,individual,active
+CUST003,Rahul Singh,9000000003,rahul@example.com,Delhi,individual,active
+CUST004,Priya Patel,9000000004,priya@example.com,Mumbai,individual,active
+CUST005,Arjun Mehta,9000000005,arjun@example.com,Bengaluru,individual,active
+CUST006,Neha Roy,9000000006,neha@example.com,Kolkata,individual,active
+CUST007,Rohan Gupta,9000000007,rohan@example.com,Delhi,business,active
+CUST008,Sneha Sen,9000000008,sneha@example.com,Mumbai,individual,suspended
+CUST009,Suman Kuity,9883633066,sumankuity68@gmail.com,Kolkata,individual,active
+CUST010,Tridip,8609056545,sumankuity68@gmail.com,Tamluk,individual,active

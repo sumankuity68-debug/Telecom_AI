@@ -1,0 +1,7 @@
+plan_id,plan_name,price,validity_days,data_gb,calls,sms,technology
+P001,Smart 199,199,28,28,unlimited,100,4G
+P002,Smart 299,299,28,56,unlimited,100,4G
+P003,5G Basic,399,28,84,unlimited,100,5G
+P004,5G Plus,599,56,168,unlimited,100,5G
+P005,5G Max,799,84,252,unlimited,100,5G
+P006,Unlimited 5G,999,90,999,unlimited,200,5G

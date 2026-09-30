@@ -1,0 +1,78 @@
+version: "3.8"
+
+services:
+  # ------------------------------------------------------------
+  # 1. PostgreSQL Database Service
+  # ------------------------------------------------------------
+  postgres:
+    image: postgres:15-alpine
+    container_name: telecom_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: telecom_user
+      POSTGRES_PASSWORD: telecom_secure_pass_2026
+      POSTGRES_DB: telecom_ai
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U telecom_user -d telecom_ai"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ------------------------------------------------------------
+  # 2. FastAPI Production Backend
+  # ------------------------------------------------------------
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: telecom_backend
+    restart: unless-stopped
+    command: uvicorn backend.main:app --host 0.0.0.0 --port 8000
+    environment:
+      APP_ENV: production
+      DATABASE_URL: postgresql://telecom_user:telecom_secure_pass_2026@postgres:5432/telecom_ai
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-telecom_ai_super_secret_jwt_key_2026_prod}
+      CORS_ORIGINS: http://localhost:8501,http://127.0.0.1:8501
+      RATE_LIMIT_ENABLED: "true"
+      GROQ_API_KEY: ${GROQ_API_KEY}
+      TWILIO_ACCOUNT_SID: ${TWILIO_ACCOUNT_SID}
+      TWILIO_AUTH_TOKEN: ${TWILIO_AUTH_TOKEN}
+      TWILIO_PHONE_NUMBER: ${TWILIO_PHONE_NUMBER}
+      TWILIO_VERIFY_SERVICE_SID: ${TWILIO_VERIFY_SERVICE_SID}
+      OPENCELLID_API_KEY: ${OPENCELLID_API_KEY}
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+
+  # ------------------------------------------------------------
+  # 3. Streamlit Frontend
+  # ------------------------------------------------------------
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: telecom_frontend
+    restart: unless-stopped
+    command: streamlit run app.py --server.port 8501 --server.address 0.0.0.0 --server.headless true
+    environment:
+      FASTAPI_BASE_URL: http://backend:8000
+      GROQ_API_KEY: ${GROQ_API_KEY}
+    ports:
+      - "8501:8501"
+    depends_on:
+      backend:
+        condition: service_healthy
+
+volumes:
+  postgres_data:

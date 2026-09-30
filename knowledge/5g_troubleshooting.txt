@@ -1,0 +1,21 @@
+5G TROUBLESHOOTING GUIDE
+
+5G network performance depends on signal strength, network congestion, device compatibility, spectrum availability and backhaul capacity.
+
+If 5G internet is slow, first check whether the device is connected to 5G. Check signal strength and perform a speed test.
+
+High latency can make browsing, gaming and video calls feel slow even when download speed appears acceptable.
+
+Packet loss can cause buffering, dropped calls, unstable connections and poor application performance.
+
+If download speed is low but signal is strong, network congestion or backhaul limitations may be responsible.
+
+If signal strength is weak, move to an area with better coverage or move closer to a window or outdoor location.
+
+Restarting the device can refresh the network registration.
+
+Users should verify that their device and SIM support the required 5G bands.
+
+If a local tower has an active outage, customer-side troubleshooting may not resolve the issue until the network problem is repaired.
+
+For persistent network problems, collect speed, latency, packet-loss and signal information and create a support ticket.

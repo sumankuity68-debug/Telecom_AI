@@ -1,0 +1,39 @@
+ticket_id,customer_id,category,description,priority,status,created_at
+TEL001,CUST002,network,Slow internet in Kolkata,high,open,2026-09-27 11:30
+TEL002,CUST003,billing,Unexpected roaming charge,medium,open,2026-09-27 13:10
+TEL003,CUST004,network,Frequent connection drops,medium,resolved,2026-09-26 16:00
+TEL018,CUST001,network,Slow network issue,high,open,2026-09-30 20:30:49
+TEL019,CUST001,network,Slow network issue,high,open,2026-09-30 20:32:00
+TEL020,CUST001,network,Slow network issue,high,open,2026-09-30 20:32:41
+TEL021,CUST001,network,My internet has been slow for three days,high,open,2026-09-30 20:32:48
+TEL022,CUST001,billing,Test billing inquiry ticket from Phase B test,low,open,2026-09-30 20:33:07
+TEL023,CUST001,high latency observed,network,medium,open,2026-09-30 20:34:12
+TEL024,CUST001,technical,Live API ticket submission test,high,open,2026-09-30 20:34:59
+TEL025,CUST001,high latency observed,network,medium,open,2026-09-30 20:35:01
+TEL026,CUST001,technical,Live API ticket submission test,high,open,2026-09-30 20:35:26
+TEL027,CUST001,high latency observed,network,medium,open,2026-09-30 20:35:27
+TEL028,CUST001,billing,Test billing inquiry ticket from Phase B test,low,open,2026-09-30 20:35:31
+TEL029,CUST001,network,Slow network issue,high,open,2026-09-30 20:35:36
+TEL030,CUST001,network,My internet has been slow for three days,high,open,2026-09-30 20:35:37
+TEL031,CUST001,technical,Live API ticket submission test,high,open,2026-09-30 20:50:50
+TEL032,CUST001,high latency observed,network,medium,open,2026-09-30 20:50:50
+TEL033,CUST001,billing,Test billing inquiry ticket from Phase B test,low,open,2026-09-30 20:50:54
+TEL034,CUST001,network,Slow network issue,high,open,2026-09-30 20:50:59
+TEL035,CUST001,network,My internet has been slow for three days,high,open,2026-09-30 20:51:00
+TEL036,CUST001,technical,Live API ticket submission test,high,open,2026-09-30 21:04:59
+TEL037,CUST001,high latency observed,network,medium,open,2026-09-30 21:05:00
+TEL038,CUST001,billing,Test billing inquiry ticket from Phase B test,low,open,2026-09-30 21:05:02
+TEL039,CUST001,network,Slow network issue,high,open,2026-09-30 21:05:07
+TEL040,CUST001,network,My internet has been slow for three days,high,open,2026-09-30 21:05:08
+TEL041,CUST001,technical,Live API ticket submission test,high,open,2026-09-30 21:24:16
+TEL042,CUST001,high latency observed,network,medium,open,2026-09-30 21:24:16
+TEL043,CUST001,billing,Test billing inquiry ticket from Phase B test,low,open,2026-09-30 21:24:19
+TEL044,CUST001,network,Slow network issue,high,open,2026-09-30 21:24:23
+TEL045,CUST001,network,My internet has been slow for three days,high,open,2026-09-30 21:24:24
+TEL046,CUST001,technical,Live API ticket submission test,high,open,2026-09-30 21:26:17
+TEL047,CUST001,high latency observed,network,medium,open,2026-09-30 21:26:20
+TEL048,CUST001,technical,Live API ticket submission test,high,open,2026-09-30 21:40:46
+TEL049,CUST001,high latency observed,network,medium,open,2026-09-30 21:40:46
+TEL050,CUST001,billing,Test billing inquiry ticket from Phase B test,low,open,2026-09-30 21:40:50
+TEL051,CUST001,network,Slow network issue,high,open,2026-09-30 21:40:54
+TEL052,CUST001,network,My internet has been slow for three days,high,open,2026-09-30 21:40:55
